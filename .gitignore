@@ -1,0 +1,8 @@
+bert/
+demo_2023-11-20-19-36-20/
+mbert/
+models/
+pred/
+__pycache__/
+.ipynb_checkpoints/
+data/
